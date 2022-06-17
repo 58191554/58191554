@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @58191554
-- 👀 I’m interested in Deep Learning and Computer Architecture
+- 👀 I’m interested in RL
 - 🌱 I’m currently learning in CUHK-SZ
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me 120090694@link.cuhk.edu.cn
