@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @58191554
-- 👀 I’m interested in RL
+- 👀 I’m interested in RL and DL
 - 🌱 I’m currently learning in CUHKSZ
-- 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me 120090694@link.cuhk.edu.cn
 
 <!---
