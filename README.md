@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Tong Zhen
-- 👀 I’m interested in RL and Computer Graphics.
-- 🌱 I’m currently learning in CUHKSZ Computer Science Department
-- 📫 Connect me 120090694@link.cuhk.edu.cn
-- 🐶 Visit my website https://58191554.github.io/
-<!---
-58191554/58191554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi 👋, I'm Zhen
+
+I'm Zhen Tong, a fourth-year Computer Science undergraduate at the Chinese University of Hong Kong, Shenzhen. I'm passionate about Reinforcement Learning and Deep Learning, currently diving into ML for generative model and combinatorial optimization problems with Prof. Tianshu Yu. I was a software engineer intern for ML at Siemens in 2022. And now I work as a research assistant at LOGO Lab When I'm not coding, catch me shredding on a snowboard. Cheers!
+
+About me
+- Carnegie Mellon University (2024.8-2026.1, expected): Master of Science in Information Networking.
+- Research Assistant at LOGO Lab (2024.2 - Present) Research for Generative Model.
+- ML Software Engineer at Siemens FoShan ( 2022.7 -2022.9 ) Use machine learning to predict vehicle performance and implement it in a big data system way.
+- Chinese University of Hong Kong, Shenzhen (2020.9-2024.5): Undergraduate major in Computer Science and Engineering.
