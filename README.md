@@ -1,6 +1,6 @@
 👋 Hi, I'm Zhen!
 
-I'm Zhen Tong — a graduate student in Computer Science at Carnegie Mellon University, passionate about Deep Learning Systems, LLM infrastructure, and Reinforcement Learning. I enjoy building scalable AI systems, optimizing model performance, and diving deep into generative models.
+I'm Zhen Tong — a graduate student at Carnegie Mellon University, passionate about Deep Learning Systems, LLM infrastructure, and Reinforcement Learning. I enjoy building scalable AI systems, optimizing model performance, and diving deep into generative models.
 
 🔬 Research & Interests
 
