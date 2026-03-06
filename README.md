@@ -8,6 +8,9 @@ Large Language Model systems (MLX, vLLM-style engines, speculative decoding, GPU
 
 💼 Experience
 
+Google - Full time software engineer (2026)
+Working in DataFlow @ Google Cloud. Working on distributed system for parallel computing. You can think DataFlow as highly-optimized MapReduce. 
+
 Amazon — Software Engineer Intern (2025)
 Built centralized data deletion orchestration service using AWS Lambda, Step Functions, DynamoDB, SQS, SNS, IAM, CDK.
 
